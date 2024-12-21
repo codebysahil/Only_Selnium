@@ -22,3 +22,12 @@ public class GetMethods {
 
     }
 }
+
+/ *  output
+Launching the browser...
+Browser is Launched...
+Page Title...OrangeHRM
+Current url is https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+The window id handle is...2196719A495487F22003B3BD06C2738D
+
+* /
